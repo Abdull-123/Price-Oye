@@ -1,0 +1,281 @@
+* {
+    margin: 0%;
+}
+
+body {
+    background-color: #f1f3f6;
+
+}
+
+.minhead {
+    flex-wrap: wrap;
+    padding: 10px;
+    align-items: center;
+    background-color: #48afff;
+    display: flex;
+    justify-content: space-between;
+}
+
+.head {
+    background-color: #48afff;
+    margin: 7px;
+    display: flex;
+    align-items: center;
+}
+
+.he img {
+    background-color: #48afff;
+    width: 30px;
+    padding: 10px;
+}
+
+.he2 img {
+    background-color: #48afff;
+    width: 130px;
+}
+
+.inp {
+    margin: 7px;
+}
+
+.inp input {
+    padding: 16px;
+    width: 380px;
+    border-radius: 7px;
+}
+
+.inp i {
+    font-size: 18px;
+    color: #48afff;
+    margin-left: -20px;
+}
+
+.loreg {
+    background-color: #48afff;
+    margin: 7px;
+    display: flex;
+    width: 250px;
+    justify-content: space-around;
+}
+
+.loreg button {
+    background-color: #48afff;
+    padding: 10px;
+    width: 120px;
+    border: 1px solid white;
+    border-radius: 7px;
+    color: white;
+}
+
+.images {
+    /* background-color: white; */
+    /* color: white; */
+    width: 70%;
+    margin-left: 16%;
+    flex-wrap: wrap;
+    display: flex;
+    justify-content: space-around;
+}
+
+.pic {
+    margin-top: 6px;
+    padding: 10px;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    align-items: center;
+}
+
+.pic img {
+    width: 60px;
+}
+
+.slider img {
+
+    width: 100%;
+}
+
+.latest {
+
+    font-size: 20px;
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+    margin-left: 10%;
+    padding: 10px;
+    margin-top: 50px;
+}
+
+.mincart {
+    flex-wrap: wrap;
+    display: flex;
+    justify-content: space-around;
+}
+
+.cart {
+    margin-top: 2%;
+    padding: 10px;
+    background-color: white;
+    /* border: 1px solid black; */
+    margin-top: 1%;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+}
+
+.cart span {
+    background-color: white;
+}
+
+.cart p {
+    background-color: white;
+}
+
+.cart img {
+    width: 200px;
+}
+
+.btn {
+    /* width: 95%; */
+    /* margin-left: 1%; */
+    flex-wrap: wrap;
+    padding: 10px;
+    /* background-color: aqua; */
+    display: flex;
+    justify-content: space-around;
+}
+
+.btn button {
+    font-weight: bold;
+    margin-top: 1%;
+    background-color: #f8ea1e;
+    padding: 15px;
+    width: 290px;
+    border: none;
+    border-radius: 8px;
+}
+
+.btn button:hover {
+
+    background-color: #48afff;
+    color: white;
+    transition: 1s;
+}
+
+.phones {
+    width: 80%;
+    margin-left: 10%;
+    flex-wrap: wrap;
+    /* background-color: #f8ea1e; */
+    display: flex;
+    justify-content: space-around;
+}
+
+.phone {
+    margin-top: 2%;
+    /* padding: 10px; */
+    align-items: center;
+    /* background-color: aqua; */
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+}
+
+.phone img {
+    width: 70px;
+}
+.minfoot
+{
+    margin-top: 2%;
+    padding: 10px;
+    background-color: #48afff;
+}
+.foot
+{
+    color: white;
+    /* margin-left: -19px; */
+    display: flex;
+    width: 97%;
+    justify-content: space-around;
+    align-items: center;
+    /* background-color: #f8ea1e; */
+}
+.foot img
+{
+    width: 120px;
+}
+.foot2
+{
+    flex-wrap: wrap;
+    justify-content: space-around;
+    /* background-color: chocolate; */
+    display: flex;
+}
+.afc
+{
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    /* background-color: aqua; */
+}
+.afc p a
+{
+    text-decoration: none;
+    color: white;
+}
+.hpi p a 
+{
+    text-decoration: none;
+    color: white;
+}
+.hpi
+{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    /* background-color: brown; */
+}
+.fopic
+{
+    margin-bottom: 5%;
+    display: flex;
+    justify-content: space-around;
+    /* background-color: blue; */
+}
+.fopic img
+{
+    width: 250px;
+}
+.icons
+{
+    padding: 30px;
+    justify-content: space-between;
+    width: 50%;
+    margin-left: 8%;
+    display: flex;
+    background-color:#48afff;
+}
+.sp span
+{
+    font-size: 20px;
+    color: white;
+}
+
+.ic
+{
+    width: 30%;
+    /* background-color: #f8ea1e; */
+    display: flex;
+    justify-content: space-around;
+}
+.ic .fa
+{
+    color: #48afff;
+    background-color: white;
+    font-size: 30px;
+    width: 40px;
+    /* align-items: center; */
+    text-align: center;
+    border-radius: 20px;
+}
